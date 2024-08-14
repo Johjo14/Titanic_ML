@@ -1,1 +1,1 @@
-# MyProjetctIA
+# Titanic_ML
