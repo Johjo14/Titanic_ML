@@ -9,7 +9,7 @@ from flask import Flask, request
 
 #Serveur de developpement
 #Chargement de du modèle
-pipeline = joblib.load("xgb_model_titanic.pkl")
+pipeline = joblib.load("rdf_model_titanic.pkl")
 print(pipeline)
 
 #Démarrer l'application Flask
